@@ -145,7 +145,10 @@ body {
   background-repeat: no-repeat;
   background-position: center;
 }
-.hero-container {
+
+.hero-content {
+  margin: 0 auto;
+  width: 494px;
   text-align: center;
 }
 .hero-title {
